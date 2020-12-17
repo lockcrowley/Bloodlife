@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Bloodlife",
+    "slug": "mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_final_bloodlife_2.jpg",
+    "splash": {
+      "image": "./assets/logotipo_final_bloodlife_2.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package" : "com.drawbit.bloodlife"
+    },
+
+    "web": {
+      "favicon": "./assets/logolife.png"
+    }
+  }
+}
